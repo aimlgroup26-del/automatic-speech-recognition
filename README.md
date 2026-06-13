@@ -47,12 +47,12 @@ This project develops an **Automatic Speech Recognition (ASR)** system capable o
 
 ## Team
 
-| Name | Role | Contact |
-|------|------|---------|
-| [Name] | Project Lead | email@example.com |
-| [Name] | ML Engineer | email@example.com |
-| [Name] | Data Engineer | email@example.com |
-| [Name] | DevOps / MLOps | email@example.com |
+| Name | 
+|------|
+| [Name] | 
+| [Name] | 
+| [Name] | 
+| [Name] | 
 
 ---
 

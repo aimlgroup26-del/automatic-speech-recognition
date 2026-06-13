@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# ML / Data
+data/raw/
+data/processed/
+data/external/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Experiment tracking
+mlruns/
+wandb/
+.neptune/
+outputs/checkpoints/
+outputs/logs/
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Secrets / credentials
+.env.local
+.env.*.local
+secrets.yaml
+credentials.json
+*.key
+*.pem
+
+# Logs
+*.log
+logs/

@@ -1,4 +1,4 @@
-from src.asr import transcribe
+from asr import transcribe
 
 
 def main():

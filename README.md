@@ -67,6 +67,14 @@ This project develops an **Automatic Speech Recognition (ASR)** system capable o
 | Phase 5 | Deployment | YYYY-MM-DD | YYYY-MM-DD | ⬜ Not Started |
 | Phase 6 | Review & Handoff | YYYY-MM-DD | YYYY-MM-DD | ⬜ Not Started |
 
+
+## Project Timeline
+
+1. Collected speech data, noisy data - google drive
+2. Splitted large data in to managable size - dataclean
+3. Inference/Fine tuning the model with different models - inference
+4. 
+
 ---
 
 ## Tech Stack
